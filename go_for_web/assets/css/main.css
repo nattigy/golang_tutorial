@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration-color: #1b1e21;
+    text-decoration-line: none;
+}
+.starter-template{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-gap: 10px;
+}
+img{
+    width: 250px;
+    height: 400px;
+}
